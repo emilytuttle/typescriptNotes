@@ -1,0 +1,10 @@
+[
+  {
+    "date": "3/22/2025 9:04:22 AM",
+    "entry": "Writing an entry now"
+  },
+  {
+    "date": "3/22/2025 9:20:27 AM",
+    "entry": "Here is a new entry"
+  }
+]
